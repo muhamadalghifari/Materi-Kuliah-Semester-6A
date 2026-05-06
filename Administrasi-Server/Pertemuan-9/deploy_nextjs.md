@@ -14,3 +14,4 @@
     ![alt text](image-1.png)
     - create static file -> 'npm run build'
     - archive folder standalone -> zip -> klik kanan folder standalone -> compress to -> compressed (zipped) folder
+    ![alt text](image-2.png)
