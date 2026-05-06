@@ -11,5 +11,6 @@
         username: admin
         password: admin123
     ![alt text](image.png)
+    ![alt text](image-1.png)
     - create static file -> 'npm run build'
     - archive folder standalone -> zip -> klik kanan folder standalone -> compress to -> compressed (zipped) folder
